@@ -10,8 +10,10 @@ Para acessar o projeto acesse o link: [Landing Page GTA](https://rick-1994-itac.
 É uma réplica do site do GTA, que consiste em simular uma possivel venda do Jogo.
 ***
 ### O CÓDIGO ⚙️
-manipulação do DOM em JavaScript, 
-importação de fontes css, 
-Responsividade css, 
+
+* #### JavaScript
+  * Em JavaScript foi ultilizado a manipulação do DOM, eventos, Arrow function.
+* #### CSS
+  * No css foi ultilizado a importação de fontes css, Responsividade , 
 tags semânticas no html, 
 manipulação do html pelo css, 
