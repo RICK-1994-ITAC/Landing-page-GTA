@@ -12,8 +12,30 @@ Para acessar o projeto acesse o link: [Landing Page GTA](https://rick-1994-itac.
 ### O CÓDIGO ⚙️
 
 * #### JavaScript
-  * Em JavaScript foi ultilizado a manipulação do DOM, eventos, Arrow function.
+  * Em JavaScript foi ultilizado a manipulação do DOM,
+  * eventos,
+  * Arrow function.
+  
 * #### CSS
-  * No css foi ultilizado a importação de fontes css, Responsividade , 
-tags semânticas no html, 
-manipulação do html pelo css, 
+  * No css foi ultilizado a importação de fontes.
+  * Responsividade.
+  * Manipulação do html pelo css, ultilizando pseudo elemento :after.
+  * flexbox.
+  * position, etc.
+
+* #### HTML 
+   * header. 
+   * nav.
+   * section.
+   * main, etc.
+***
+` Segue o video do projeto em questão `
+
+  
+
+https://github.com/RICK-1994-ITAC/Landing-page-GTA/assets/148507607/1cad1cc1-b9e3-4076-8d2c-4cc48bccadbb
+***
+GRATO POR SUA VISITA  😄.
+
+
+
